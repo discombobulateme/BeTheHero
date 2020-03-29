@@ -7,7 +7,7 @@ The app was created using the React Stack as part of the learning process during
 Online Bootcamp was offered by [Rocketseat](https://rocketseat.com.br/). 
 
 <h2>Dev Environment</h2>
-* **Backend**: was builded using *Node.js* with *Express* as framework and *SQLite* as database
+* **Backend** was builded using *Node.js* with *Express* as framework and *SQLite* as database
 
 * **Frontend** was builded with *React.js*
 
