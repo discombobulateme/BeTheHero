@@ -15,6 +15,19 @@ module.exports = {
     useNullAsDefault: true,
   },
 
+  test: {
+    client: 'sqlite3',
+    connection: {
+      filename: './src/database/test.sqlite'
+    },
+    migrations: {
+      directory: './src/database/migrations'
+    },
+    //this corrercts the error that appears when doing the 1st migration
+    //this error appear because sql does not accepts default values on table
+    useNullAsDefault: true,
+  },
+
   staging: {
     client: 'postgresql',
     connection: {

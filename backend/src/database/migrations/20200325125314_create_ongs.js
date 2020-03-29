@@ -14,5 +14,5 @@ exports.up = function(knex) {
 
 //down methos allows undo
 exports.down = function(knex) {
-    knex.schema.dropTable('ongs');
+    knex.schema.dropTable("ongs");
 };
