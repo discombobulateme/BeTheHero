@@ -17,4 +17,4 @@ Online Bootcamp was offered by [Rocketseat](https://rocketseat.com.br/).
 
 * Validation: using [*Celebrate*](https://github.com/arb/celebrate)
 
-* TDD using: [*Jest*](https://jestjs.io/)
+* TDD using: [*Jest*](https://jestjs.io/) and [*Super test* library](https://github.com/visionmedia/supertest) for Integrated tests
