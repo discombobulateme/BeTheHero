@@ -4,7 +4,7 @@ Be The Hero is a web and mobile appication that intends to connect daily heroes 
 Users can find "cases in need" and direct contact the NGO via E-mail or WhatsApp to offer a donnation in brazilian reais.
 
 The app was created using the React Stack as part of the learning process during a very intense week on March 2020.  
-Online Bootcamp was offered by Rocketseat. 
+Online Bootcamp was offered by [Rocketseat](https://rocketseat.com.br/). 
 
 <h2>Dev Environment</h2>
 * **Backend**: was builded using *Node.js* with *Express* as framework and *SQLite* as database
@@ -15,6 +15,6 @@ Online Bootcamp was offered by Rocketseat.
 
 <h2>Validation and TDD</h2>
 
-* Validation: using *Celebrate*
+* Validation: using [*Celebrate*](https://github.com/arb/celebrate)
 
-* TDD using: *Jest*
+* TDD using: [*Jest*](https://jestjs.io/)
