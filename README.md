@@ -6,6 +6,13 @@ Users can find "cases in need" and direct contact the NGO via E-mail or WhatsApp
 The app was created using the React Stack as part of the learning process during a very intense week on March 2020.  
 Online Bootcamp was offered by [Rocketseat](https://rocketseat.com.br/). 
 
+What does the application looks like on the Web and on Mobile: 
+
+![How Web and mobile app looks](https://github.com/discombobulateme/BeTheHero/blob/master/screenShots/apsampaio_preview.png "Web and mobile image of the application")
+*Thanks to [*apsampaio*](https://github.com/apsampaio/semana-omnistack-11) for the awesome picture ;)
+
+
+
 <h2>Dev Environment</h2>
 
 * **Backend** was builded using *Node.js* with *Express* as framework and *SQLite* as database
