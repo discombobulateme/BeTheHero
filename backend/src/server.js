@@ -1,3 +1,4 @@
 const app = require('./app');
 
-app.listen(3333);
+//Using Heroku to deploy needs to have an open door
+app.listen(process.env.PORT || 3333);
